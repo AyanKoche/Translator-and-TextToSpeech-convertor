@@ -4,4 +4,4 @@ Converts a language text into a the desired language and creates a audio file of
 
 Using Python and WatsonAI
 Using LanguageTranslatorV3
-Using TextToSPeechV1
+Using TextToSpeechV1
